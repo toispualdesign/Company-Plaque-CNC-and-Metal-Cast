@@ -16,4 +16,14 @@ T06 - Showing the results to the "client" to see whether they are satisfied and 
 T07 - They were! So here goes. First side of the cast frame has been filled, second level is installed here.
 T08 - Second side is filled, a peg is added to keep a channel clear for pouring of the metal.
 T09 - Two halves separated with the imprint of the mold visible. Graphite powder has been added between to separate the halves easier.
-T10 - 
+T10 - The setup for smelting the metal. Smaller project, so the large furnace wasn't used.
+T11 - All of the metal used at the shop is recycled.
+T12 - The prepared sand molds with funnels to help direct the metal.
+T13 - The smelting is approaching the final stages. When adding new pieces of metal, they were heated up prior, in order to burn away any possible oil residues.
+T14 - Adding sand around the molds in case any liquid metal tries to escape.
+T15 - Flux in powder form. To make the smelted metal more flowy.
+T16 - All ready for use!
+T17, T18 - Pouring it in the molds.
+T19 - Excess metal is poured into quare holes to have them in ingot form for later use.
+T20 - The molds lacked air vents, so the metal didn't flow into the empty space as well as it could've.
+T21 - Photos of new attempt made later. Much better, but there are still a few smaller holes. The models seem to be functional though.
