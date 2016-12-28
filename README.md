@@ -1,6 +1,6 @@
 # Company-Plaque-CNC-and-Metal-Cast
 Project to make a castable mold for a car company logo via Shopbot CNC machine.
-
+Files include photos of the process. SVG of the final logo design used, CRV and SBP files of the logo in V-Carve format.
 
 This was a continuation of a project a previous exchange student from my school began at the beginning of the year, and I carried forth from where they left off.
 
